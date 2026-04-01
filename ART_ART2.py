@@ -18,5 +18,4 @@ elif tipo == "ART":
 else:
     print("Tipo inválido. Digite ATR ou ART.")
 
-
-    
+    #END
